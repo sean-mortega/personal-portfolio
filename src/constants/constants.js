@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Car Rental Showcase App',
     description: "Experience a sleek Car Showcase app powered by React, NextJs, and Tailwind CSS. With seamless mobile responsiveness and efficient server-side rendering, explore stunning car displays with ease.",
-      image: '/images/thumbs-1.jpg',
+      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062754/portfolio-assets/thumbs-1_uc7yb5.jpg',
       tags: ['NextJs', 'React', 'TailwindCSS'],
     source: 'https://github.com/sean-mortega/car-rental-app-next',
     visit: 'https://car-rental-app-next.vercel.app/',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'IPL Predictor 2023',
     description:"Introducing a Cricket Predictor app crafted with Vue.js, Axios, and plain CSS. Experience seamless functionality and a stylish interface in this user-friendly application..",
-    image: '/images/thumbs-2.jpg',
+    image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062757/portfolio-assets/thumbs-2_cbsni4.jpg',
     tags: ['Vue.Js', 'JavaScript', 'CSS'],
     source: 'https://github.com/sean-mortega/IPL-vuejs',
     visit: 'https://sean-mortega.github.io/IPL-vuejs/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Esports Landing Page Example',
     description: "An Esports Landing page on a betting website, created with HTML5 and plain CSS. Engage in thrilling Esports betting while enjoying a sleek and intuitive user interface.",
-      image: '/images/thumbs-3.jpg',
+      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062756/portfolio-assets/thumbs-3_rxeipj.jpg',
       tags: ['HTML5', 'CSS'],
     source: 'https://github.com/sean-mortega/esports-promo-page',
     visit: 'https://sean-mortega.github.io/esports-promo-page',
@@ -31,7 +31,7 @@ export const projects = [
     description: "A captivating wedding invitation showcase website, skillfully crafted using HTML5 and plain CSS.",
     image: '/images/thumbs-4.jpg',
     tags: ['SSAS', 'HTML', 'Javascript'],
-    source: 'https://github.com/sean-mortega/wedding-invitation-app',
+    source: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062755/portfolio-assets/thumbs-4_w1f6du.jpg',
     visit: 'https://seanandsuzaine.com',
     id: 3,
   },
