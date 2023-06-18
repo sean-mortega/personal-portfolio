@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Wedding Website',
     description: "A captivating wedding invitation showcase website, skillfully crafted using HTML5 and plain CSS.",
-    image: '/images/thumbs-4.jpg',
+    image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062755/portfolio-assets/thumbs-4_w1f6du.jpg',
     tags: ['SSAS', 'HTML', 'Javascript'],
     source: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062755/portfolio-assets/thumbs-4_w1f6du.jpg',
     visit: 'https://seanandsuzaine.com',
