@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Video Game Database',
+    description: "A sleek and intuitive Video Game Database web application powered by Angular, TypeScript, and SCSS, offering a vast collection of games and seamless navigation for both casual and hardcore gamers.",
+      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687252491/portfolio-assets/thumbs-5_pnhjhy.jpg',
+      tags: ['Angular', 'TypeScript', 'SCSS'],
+    source: 'https://github.com/sean-mortega/video-game-angular',
+    visit: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687252491/portfolio-assets/thumbs-5_pnhjhy.jpg',
+    id: 1,
+  },
+  {
     title: 'IPL Predictor 2023',
     description:"Introducing a Cricket Predictor app crafted with Vue.js, Axios, and plain CSS. Experience seamless functionality and a stylish interface in this user-friendly application..",
     image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062757/portfolio-assets/thumbs-2_cbsni4.jpg',
     tags: ['Vue.Js', 'JavaScript', 'CSS'],
     source: 'https://github.com/sean-mortega/IPL-vuejs',
     visit: 'https://sean-mortega.github.io/IPL-vuejs/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Esports Landing Page Example',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['HTML5', 'CSS'],
     source: 'https://github.com/sean-mortega/esports-promo-page',
     visit: 'https://sean-mortega.github.io/esports-promo-page',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Wedding Website',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['SSAS', 'HTML', 'Javascript'],
     source: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062755/portfolio-assets/thumbs-4_w1f6du.jpg',
     visit: 'https://seanandsuzaine.com',
-    id: 3,
+    id: 4,
   },
 ];
 
