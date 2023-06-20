@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Car Rental Showcase App',
     description: "Experience a sleek Car Showcase app powered by React, NextJs, and Tailwind CSS. With seamless mobile responsiveness and efficient server-side rendering, explore stunning car displays with ease.",
-      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062754/portfolio-assets/thumbs-1_uc7yb5.jpg',
+      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687255251/portfolio-assets/thumbs-1_gf9hmf.jpg',
       tags: ['NextJs', 'React', 'TailwindCSS'],
     source: 'https://github.com/sean-mortega/car-rental-app-next',
     visit: 'https://car-rental-app-next.vercel.app/',
@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'HappiArena',
+    description: "A dynamic multi page Wordpress website converted from an HTML5 Template. All contents are dynamical with the help of Advanced Custom Fields Pro plug-in. ",
+      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687252491/portfolio-assets/thumbs-5_pnhjhy.jpg',
+      tags: ['Wordpress', 'ACF'],
+    source: '',
+    visit: 'https://happiarena.com',
+    id: 2,
+  },
+  {
     title: 'IPL Predictor 2023',
     description:"Introducing a Cricket Predictor app crafted with Vue.js, Axios, and plain CSS. Experience seamless functionality and a stylish interface in this user-friendly application..",
     image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062757/portfolio-assets/thumbs-2_cbsni4.jpg',
     tags: ['Vue.Js', 'JavaScript', 'CSS'],
     source: 'https://github.com/sean-mortega/IPL-vuejs',
     visit: 'https://sean-mortega.github.io/IPL-vuejs/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Esports Landing Page Example',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['HTML5', 'CSS'],
     source: 'https://github.com/sean-mortega/esports-promo-page',
     visit: 'https://sean-mortega.github.io/esports-promo-page',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Wedding Website',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['SSAS', 'HTML', 'Javascript'],
     source: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687062755/portfolio-assets/thumbs-4_w1f6du.jpg',
     visit: 'https://seanandsuzaine.com',
-    id: 4,
+    id: 5,
   },
 ];
 
