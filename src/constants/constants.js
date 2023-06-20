@@ -14,7 +14,7 @@ export const projects = [
       image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687252491/portfolio-assets/thumbs-5_pnhjhy.jpg',
       tags: ['Angular', 'TypeScript', 'SCSS'],
     source: 'https://github.com/sean-mortega/video-game-angular',
-    visit: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687252491/portfolio-assets/thumbs-5_pnhjhy.jpg',
+    visit: 'https://videogame-db-angular.vercel.app',
     id: 1,
   },
   {
