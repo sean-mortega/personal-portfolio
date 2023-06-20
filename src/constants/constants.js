@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Video Game Database',
     description: "A sleek and intuitive Video Game Database web application powered by Angular, TypeScript, and SCSS, offering a vast collection of games and seamless navigation for both casual and hardcore gamers.",
-      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687252491/portfolio-assets/thumbs-5_pnhjhy.jpg',
+      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687255737/portfolio-assets/thumbs-5_dtsvf7.jpg',
       tags: ['Angular', 'TypeScript', 'SCSS'],
     source: 'https://github.com/sean-mortega/video-game-angular',
     visit: 'https://videogame-db-angular.vercel.app',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'HappiArena',
     description: "A dynamic multi page Wordpress website converted from an HTML5 Template. All contents are dynamical with the help of Advanced Custom Fields Pro plug-in. ",
-      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687252491/portfolio-assets/thumbs-5_pnhjhy.jpg',
+      image: 'https://res.cloudinary.com/drtr6i0qt/image/upload/v1687255223/portfolio-assets/thumbs-6_m2cbyx.jpg',
       tags: ['Wordpress', 'ACF'],
     source: '',
     visit: 'https://happiarena.com',
