@@ -1,7 +1,7 @@
 # [Sean Mortega Personal Portfolio](https://sean-mortega.github.io/personal-portfolio/)
 
 ## About
-[Resume](https://sean-mortega.github.io/personal-portfolio/) is my personal portfolio webapp created using ReactJs with styled components and NextJs 13 Based from [JavaScript Mastery's](https://www.youtube.com/@javascriptmastery) youtube tutorial video .
+[This](https://sean-mortega.github.io/personal-portfolio/) is my personal portfolio webapp created using ReactJs with styled components and NextJs 13 Based from [JavaScript Mastery's](https://www.youtube.com/@javascriptmastery) youtube tutorial video .
 
 ## Status
 
